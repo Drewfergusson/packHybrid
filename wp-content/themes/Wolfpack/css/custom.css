@@ -1,0 +1,20 @@
+/****** PLACE YOUR CUSTOM STYLES HERE ******/
+
+.wolfie{
+  margin-left: 2px;
+}
+
+.has-dropdown em{
+  font-size: 20px;
+  margin: 10px;
+}
+
+.btn{
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.race-date{
+  margin-top: 10vw;
+}
